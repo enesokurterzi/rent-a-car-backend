@@ -2,8 +2,8 @@
 
 - Swagger Page
 
-![Swagger](/img/Swagger.png)
+![Swagger](/images/Swagger.png)
 
 - Code Tree
 
-![CodeTree](/img/CodeTree.png)
+![CodeTree](/images/CodeTree.png)
